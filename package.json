@@ -1,0 +1,27 @@
+{
+  "name": "senati_backend",
+  "version": "1.0.0",
+  "description": "Practica con funciones como GET, POST,PUT, DELETE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGSaMueLrm/SENATI_BACKEND.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JGSaMueLrm/SENATI_BACKEND/issues"
+  },
+  "homepage": "https://github.com/JGSaMueLrm/SENATI_BACKEND#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
